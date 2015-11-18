@@ -21,10 +21,8 @@ model {
 
     android.ndk {
         moduleName = "shared"
-        cppFlags.add("-I${file("../../shared")}".toString())
-//        cppFlags.addAll(["-std=c++11",
-//                         "-I${file("../../shared")}".toString(),
-//                         "-I${file("src/main/jni")}".toString()])
+        cppFlags.addAll(["-std=c++11",
+                         "-I${file("../../shared")}".toString()])
         stl     = "stlport_static"
     }
 

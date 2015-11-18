@@ -1,5 +1,5 @@
 SRC	=	main.cpp \
-		../shared/*.cpp
+		../shared/mylib.cpp
 
 CC	=	g++
 
