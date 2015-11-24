@@ -6,8 +6,11 @@
 //  Copyright © 2015 Cyril Moralès. All rights reserved.
 //
 
-#ifndef shared_h
-#define shared_h
+#import <Foundation/Foundation.h>
 
 
-#endif /* shared_h */
+@interface MyLib : NSObject
+
++ (NSString*) hello;
+
+@end

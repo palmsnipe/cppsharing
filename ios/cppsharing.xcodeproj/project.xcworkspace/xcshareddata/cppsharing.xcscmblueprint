@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F2EECDE51A810D991F45FC74C268D8F9AF53E31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7448E718372DB7A4B0D01E27524ED3F8AE51A902" : 0,
+    "4F2EECDE51A810D991F45FC74C268D8F9AF53E31" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93703DB1-5855-4EE7-9A1D-4A3617FF76EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7448E718372DB7A4B0D01E27524ED3F8AE51A902" : "perso-cppsharing\/ios\/cppsharing\/shared\/libs\/rapidjson\/",
+    "4F2EECDE51A810D991F45FC74C268D8F9AF53E31" : "perso-cppsharing\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cppsharing",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/cppsharing.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/palmsnipe\/cppsharing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F2EECDE51A810D991F45FC74C268D8F9AF53E31"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:miloyip\/rapidjson.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7448E718372DB7A4B0D01E27524ED3F8AE51A902"
+    }
+  ]
+}

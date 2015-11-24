@@ -9,7 +9,7 @@ TMP	=	$(SRC:.cpp=.cpp~)
 
 NAME	=	cppshared
 
-CPPFLAGS =	-I../shared/
+CPPFLAGS =	-I../shared/ -I../shared/libs/rapidjson/include/
 
 all	:	$(OBJ)
 	$(CC) $(OBJ) $(CPPFLAGS) -o $(NAME)

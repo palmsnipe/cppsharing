@@ -9,10 +9,10 @@
 #import "shared.h"
 #import "mylib.h"
 
-@implementation Performance_ObjCtoCPlusPlus
+@implementation MyLib
 
-+ (void) sortArrayCPlusPlus: (NSInteger) array_size
++ (NSString*) hello
 {
-    Performance_CPlusPlus::sortArray((unsigned int)array_size);
+    return [NSString stringWithUTF8String:helloworld().c_str()];
 }
 @end
